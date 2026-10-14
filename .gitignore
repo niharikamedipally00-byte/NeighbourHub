@@ -1,0 +1,25 @@
+# Database dump
+neighbourhub.sql
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+
+# Backend
+backend/target/
+backend/.vscode/
+backend/.idea/
+backend/*.iml
+
+# General
+**/target/
+.vscode/
+.idea/
+.DS_Store
+*.log
+.env
+.env.*
+application-local.properties
+application-local.yml
